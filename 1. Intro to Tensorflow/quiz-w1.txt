@@ -1,0 +1,127 @@
+1. Question 1
+The diagram for traditional programming had Rules and Data In, but what came out?
+
+
+Bugs
+
+
+Machine Learning
+
+
+-- Answers
+
+
+Binary
+
+2. Question 2
+The diagram for Machine Learning had Answers and Data In, but what came out?
+
+
+Bugs
+
+
+Models
+
+
+Binary
+
+
+-- Rules
+
+3. Question 3
+When I tell a computer what the data represents (i.e. this data is for walking, this data is for running), what is that process called?
+
+
+Learning the Data
+
+
+Categorizing the Data
+
+
+-- Labelling the Data
+
+
+Programming the Data
+
+4. Question 4
+What is a Dense?
+
+
+Mass over Volume
+
+
+A layer of connected neurons
+
+
+A single neuron
+
+
+A layer of disconnected neurons
+
+Question 51
+point
+5. Question 5
+What does a Loss function do?
+
+
+-- Measures how good the current ‘guess’ is
+
+
+Generates a guess
+
+
+Decides to stop training a neural network
+
+
+Figures out if you win or lose
+
+Question 61
+point
+6. Question 6
+What does the optimizer do?
+
+
+Figures out how to efficiently compile your code
+
+
+Decides to stop training a neural network
+
+
+Measures how good the current guess is
+
+
+-- Generates a new and improved guess
+
+Question 71
+point
+7. Question 7
+What is Convergence?
+
+
+-- The process of getting very close to the correct answer
+
+
+The bad guys in the next ‘Star Wars’ movie
+
+
+A dramatic increase in loss
+
+
+A programming API for AI
+
+Question 81
+point
+8. Question 8
+What does model.fit do?
+
+
+It optimizes an existing model
+
+
+It makes a model fit available memory
+
+
+It determines if your activity is good for your body
+
+
+-- It trains the neural network to fit one set of values to another

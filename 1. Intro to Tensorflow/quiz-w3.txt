@@ -1,0 +1,102 @@
+
+Question 11
+point
+1. Question 1
+What is a Convolution?
+
+
+- A technique to isolate features in images
+
+
+A technique to make images bigger
+
+
+A technique to filter out unwanted images
+
+
+A technique to make images smaller
+
+Question 21
+point
+2. Question 2
+What is a Pooling?
+
+
+A technique to make images sharper
+
+
+- A technique to reduce the information in an image while maintaining features
+
+
+A technique to combine pictures
+
+
+A technique to isolate features in images
+
+Question 31
+point
+3. Question 3
+How do Convolutions improve image recognition?
+
+
+They make the image clearer
+
+
+- They isolate features in images
+
+
+They make the image smaller
+
+
+They make processing of images faster
+
+Question 41
+point
+4. Question 4
+After passing a 3x3 filter over a 28x28 image, how big will the output be?
+
+
+31x31
+
+
+28x28
+
+
+- 26x26
+
+
+25x25
+
+Question 51
+point
+5. Question 5
+After max pooling a 26x26 image with a 2x2 filter, how big will the output be?
+
+
+28x28
+
+
+56x56
+
+
+- 13x13
+
+
+26x26
+
+Question 61
+point
+6. Question 6
+Applying Convolutions on top of our Deep neural network will make training:
+
+
+Faster
+
+
+Stay the same
+
+
+Slower
+
+
+- It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!
