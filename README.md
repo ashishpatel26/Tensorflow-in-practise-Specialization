@@ -129,7 +129,7 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Using a convolutional network
 - Going back to the IMDB dataset
 - Tips from Laurence
-- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3. Natural Language Processing in TensorFlow/Week 3.1 - Classifying IMDB reviews (Embedding %2B Conv1D).ipynb)
+- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.1%20-%20Classifying%20IMDB%20reviews%20(Embedding%20%2B%20Conv1D).ipynb)
 - [Week 3.2 - Twitter sentiment classification (GloVe).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.2%20-%20Twitter%20sentiment%20classification%20(GloVe).ipynb)
 
 #### Week 4: Sequence Models and Literature
