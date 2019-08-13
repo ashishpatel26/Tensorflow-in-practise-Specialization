@@ -57,7 +57,6 @@ This second course teaches you advanced techniques to improve the computer visio
 - Introduction: A conversation with Andrew Ng
 - Training with the cats vs. dogs dataset
 - Working through the notebook
-
 - Fixing through cropping
 - Looking at accuracy and loss
 - [Week 1 - Classifying Cats and Dogs.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/2.%20CNN%20in%20Tensorflow/Week%201%20-%20Classifying%20Cats%20and%20Dogs.ipynb)
@@ -67,7 +66,6 @@ This second course teaches you advanced techniques to improve the computer visio
 - A conversation with Andrew Ng
 - Introducing augmentation
 - Coding augmentation with ImageDataGenerator
-
 - Demonstrating overfitting in cats vs. dogs dataset
 - Adding augmentation to cats vs. dogs dataset
 - Exploring augmentation with horses vs. humans dataset
@@ -78,7 +76,6 @@ This second course teaches you advanced techniques to improve the computer visio
 - A conversation with Andrew Ng
 - Understanding transfer learning: the concepts
 - Coding your own model with transferred features
-
 - Exploring dropouts
 - Exploring transfer learning with inception
 - [Week 3 - Transfer learning (VGG Net).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/2.%20CNN%20in%20Tensorflow/Week%203%20-%20Transfer%20learning%20(VGG%20Net).ipynb)
@@ -88,7 +85,6 @@ This second course teaches you advanced techniques to improve the computer visio
 - A conversation with Andrew Ng
 - Moving from binary to multi-class classification
 - Exploring multi-class classification with the rock paper scissors dataset
-
 - Training a classifier with the rock paper scissors dataset
 - Testing the rock paper scissors classifier
 - [Week 4 - Classifying images of sign languages.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/2.%20CNN%20in%20Tensorflow/Week%204%20-%20Classifying%20images%20of%20sign%20languages.ipynb)
@@ -102,7 +98,6 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Introduction: A conversation with Andrew Ng
 - Word-based encodings
 - Using APIs
-
 - Text to sequence
 - Sarcasm, really?
 - Working with the Tokenizer
@@ -116,7 +111,6 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Looking into the details
 - How can we use vectors?
 - More into the details
-
 - Remember the sarcasm dataset?
 - Building a classifier for the sarcasm dataset
 - Let’s talk about the loss function
@@ -131,7 +125,6 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - LSTMs
 - Implementing LSTMs in code
 - A word from Laurence
-
 - Accuracy and Loss
 - Using a convolutional network
 - Going back to the IMDB dataset
@@ -144,7 +137,6 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - A conversation with Andrew Ng
 - Training the data
 - Finding what the next word should be
-
 - Predicting a word
 - Poetry!
 - Laurence the poet
@@ -161,7 +153,6 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Machine learning applied to time series
 - Common patterns in time series
 - Introduction to time series
-
 - Train, validation, and test sets
 - Metrics for evaluating performance
 - Moving average and differencing
@@ -175,7 +166,6 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Preparing features and labels
 - Feeding a windowed dataset into a neural network
 - Single layer neural network
-
 - Machine learning on time windows
 - Prediction
 - More on single-layer network
@@ -191,7 +181,6 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Outputting a sequence
 - Lambda layers
 - Adjusting the learning rate dynamically
-
 - RNNs
 - LSTMs
 - Coding LSTMs
@@ -205,7 +194,6 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Convolutions
 - Bi-directional LSTMs
 - Real data – sunspots
-
 - Train and tune the model
 - Prediction
 - Sunspots
