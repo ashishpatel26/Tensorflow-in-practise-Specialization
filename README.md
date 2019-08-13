@@ -1,6 +1,6 @@
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
-Specialization Certification : https://www.coursera.org/account/accomplishments/specialization/9H3B22NBRKKJ
+**My Certification** : https://www.coursera.org/account/accomplishments/specialization/9H3B22NBRKKJ
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
